@@ -9,6 +9,7 @@
 
 my readme files are created using the following readme generator:
 * [Readme-Editor](https://readme.so/editor)
+* [Readme-cheat-codes](http://nestacms.com/docs/creating-content/markdown-cheat-sheet)
 
 For better HTML coding, I use the following:
 * [HTML best practices](https://gist.github.com/ryansechrest/8693303)
