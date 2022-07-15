@@ -12,7 +12,7 @@ my readme files are created using the following readme generator:
 * [Readme-cheat-codes](http://nestacms.com/docs/creating-content/markdown-cheat-sheet)
 
 For better HTML coding, I use the following:
-* [HTML best practices](https://gist.github.com/ryansechrest/8693303)
+* [HTML best practices](https://github.com/hail2u/html-best-practices)
 
 the following sass guidelines aids in better sass coding:
 * [Sass Guidlines](https://sass-guidelin.es/)
