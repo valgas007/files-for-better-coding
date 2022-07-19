@@ -14,5 +14,8 @@ my readme files are created using the following readme generator:
 For better HTML coding, I use the following:
 * [HTML best practices](https://github.com/hail2u/html-best-practices)
 
+for BEM, I use the following:
+* [BEM metodology](https://en.bem.info/methodology)
+
 the following sass guidelines aids in better sass coding:
 * [Sass Guidlines](https://sass-guidelin.es/)
